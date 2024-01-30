@@ -8,6 +8,10 @@ export default function Document() {
             name="google-site-verification"
             content="Zl16Yyd260nAEss2Bf_xvuNTv9TPyHGPFvEYGEjpc7k"
           />
+          <meta
+            name="msvalidate.01"
+            content="15BA8BF7FB89C8BF32490106FF8C9BA9"
+          />
         </Head>
         <link rel="shortcut icon" href="/assets/img/favicon.png" />
         <link rel="preconnect" href="https://fonts.bunny.net" />

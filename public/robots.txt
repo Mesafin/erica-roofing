@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.ericaroofing.com/
+
+# Sitemaps
+Sitemap: https://www.ericaroofing.com/sitemap.xml

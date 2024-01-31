@@ -12,8 +12,8 @@ export default function Document() {
             name="msvalidate.01"
             content="15BA8BF7FB89C8BF32490106FF8C9BA9"
           />
-        </Head>
         <link rel="shortcut icon" href="/assets/img/favicon.png" />
+        </Head>
         <link rel="preconnect" href="https://fonts.bunny.net" />
         <link
           href="https://fonts.bunny.net/css?family=dm-sans:400,400i,500,500i,700,700i|poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"

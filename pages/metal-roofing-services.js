@@ -67,11 +67,11 @@ export default function MetalRoofing() {
                             <div className="challenge-img">
                               <img
                                 src="/assets/img/erica/metal/red-roof.jpg"
-                                alt="red-roof"
+                                alt="red-roof img"
                               />
                               <img
                                 src="/assets/img/erica/metal/metal-roofing-3.jpg"
-                                alt="metal roof"
+                                alt="roofing services in Calgary"
                               />
                             </div>
                           </div>

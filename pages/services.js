@@ -133,7 +133,7 @@ export default function Service() {
                     <div className="support-item">
                       <img
                         src="/assets/img/services/roofing-services.jpg"
-                        alt="roofing"
+                        alt="erica roofing services "
                         className="rounded"
                       />
                     </div>
@@ -149,7 +149,7 @@ export default function Service() {
                     <div className="support-item">
                       <img
                         src="/assets/img/services/exterior.jpg"
-                        alt="exterior services"
+                        alt="erica exterior services"
                         className="rounded"
                       />
                     </div>
@@ -191,7 +191,7 @@ export default function Service() {
                     <div className="support-item">
                       <img
                         src="/assets/img/services/cleaning-services.jpg"
-                        alt="roofing"
+                        alt="erica additional services"
                         className="rounded"
                       />
                     </div>

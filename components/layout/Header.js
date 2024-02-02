@@ -29,7 +29,9 @@ export default function Header({ headerCls, headerTop }) {
               <div className="col-xl-8 col-lg-9">
                 <div className="header-top-left">
                   <ul className="list-wrap">
-                    <li className="welcome">Welcome to Erica Roofing and Exteriors</li>
+                    <li className="welcome">
+                      Welcome to Erica Roofing and Exteriors
+                    </li>
                     <li>
                       <i className="fas fa-phone-alt" />
                       <Link href="tel:+14034705239">+1 (403) 630 2629</Link>
@@ -103,13 +105,16 @@ export default function Header({ headerCls, headerTop }) {
                         <Link href="/">
                           <img
                             src="/assets/img/erica/logo/eri-1.png"
-                            alt="Logo"
+                            alt="roofing service in Calgary"
                           />
                         </Link>
                       </div>
                       <div className="logo d-none">
                         <Link href="/">
-                          <img src="/assets/img/erica/logo-1.png" alt="Logo" />
+                          <img
+                            src="/assets/img/erica/logo-1.png"
+                            alt="roofing service in Calgary logo"
+                          />
                         </Link>
                       </div>
                       <div className="navbar-wrap main-menu d-none d-lg-flex">
@@ -124,13 +129,19 @@ export default function Header({ headerCls, headerTop }) {
                             <Link href="/services">Services</Link>
                             <ul className="sub-menu">
                               <li>
-                                <Link href="/roof-repairing-services">Roof Repair</Link>
+                                <Link href="/roof-repairing-services">
+                                  Roof Repair
+                                </Link>
                               </li>
                               <li>
-                                <Link href="/flat-roofing-services">Flat Roofing</Link>
+                                <Link href="/flat-roofing-services">
+                                  Flat Roofing
+                                </Link>
                               </li>
                               <li>
-                                <Link href="/metal-roofing-services">Metal Roofing</Link>
+                                <Link href="/metal-roofing-services">
+                                  Metal Roofing
+                                </Link>
                               </li>
                               <li>
                                 <Link href="/rubber-roofing-services">
@@ -163,7 +174,10 @@ export default function Header({ headerCls, headerTop }) {
                       </div>
                       <div className="nav-logo">
                         <Link href="/">
-                          <img src="/assets/img/erica/logo-1.png" alt="Logo" />
+                          <img
+                            src="/assets/img/erica/logo-1.png"
+                            alt="roofing service in Calgary"
+                          />
                         </Link>
                       </div>
                       <div className="menu-outer">

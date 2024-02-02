@@ -64,11 +64,11 @@ export default function RoofRepair() {
                             <div className="services-process-img">
                               <img
                                 src="/assets/img/erica/repair/project-1.jpg"
-                                alt=""
+                                alt="erica roof repair"
                               />
                               <img
                                 src="/assets/img/erica/repair/damaged-2.jpg"
-                                alt=""
+                                alt="erica roof repair"
                               />
                             </div>
                           </div>
@@ -81,7 +81,7 @@ export default function RoofRepair() {
                                     <div className="icon">
                                       <img
                                         src="/assets/img/icon/sp_icon01.svg"
-                                        alt=""
+                                        alt="erica roof repair"
                                       />
                                     </div>
                                     <div className="content">
@@ -101,7 +101,7 @@ export default function RoofRepair() {
                                     <div className="icon">
                                       <img
                                         src="/assets/img/icon/sp_icon02.svg"
-                                        alt=""
+                                        alt="erica roof repair"
                                       />
                                     </div>
                                     <div className="content">
@@ -121,7 +121,7 @@ export default function RoofRepair() {
                                     <div className="icon">
                                       <img
                                         src="/assets/img/icon/sp_icon01.svg"
-                                        alt=""
+                                        alt="erica roof repair"
                                       />
                                     </div>
                                     <div className="content">

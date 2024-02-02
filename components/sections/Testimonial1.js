@@ -19,7 +19,10 @@ export default function Testimonial1() {
               <div className="col-lg-6 wow fadeInLeft" data-wow-delay=".2s">
                 <div className="testimonial-img">
                   {/* <img src="/assets/img/images/testimonial_img.jpg" alt="" /> */}
-                  <img src="/assets/img/erica/testimonial.jpg" alt="" />
+                  <img
+                    src="/assets/img/erica/testimonial.jpg"
+                    alt="roofing services in Calgary testimonials"
+                  />
                 </div>
               </div>
               <div className="col-lg-6">
@@ -45,7 +48,6 @@ export default function Testimonial1() {
                         </p>
                       </div>
                       <div className="testimonial-avatar">
-                  
                         <div className="avatar-content">
                           <h6 className="title">Erick Thang</h6>
                           <p>Customer</p>
@@ -58,13 +60,12 @@ export default function Testimonial1() {
                       </div>
                       <div className="testimonial-content">
                         <p>
-                          We had to re roof our house. After receiving some
+                          We had to re roof our house in Calgary. After receiving some
                           pretty high quotes, Erica roofing came with a fast
                           estimate and decent quote. Recommended!
                         </p>
                       </div>
                       <div className="testimonial-avatar">
-                       
                         <div className="avatar-content">
                           <h6 className="title">Darrell Steward</h6>
                           <p>Roofing Expert</p>
@@ -78,11 +79,10 @@ export default function Testimonial1() {
                       <div className="testimonial-content">
                         <p>
                           Competitive pricing, warranty received for the new
-                          roof, fast and professional company.
+                          roof, fast and professional company in Calgary.
                         </p>
                       </div>
                       <div className="testimonial-avatar">
-                       
                         <div className="avatar-content">
                           <h6 className="title">Albert Hallahan</h6>
                           <p>Customer</p>

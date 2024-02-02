@@ -43,7 +43,7 @@ const AddService = () => {
               <div className="support-item">
                 <img
                   src="/assets/img/services/exterior.jpg"
-                  alt="exterior services"
+                  alt="erica exterior services"
                   className='rounded'
                 />
               </div>
@@ -84,7 +84,7 @@ const AddService = () => {
             <div className="col-xl-4 col-md-6">
               <div className="support-item">
                 <img src="/assets/img/services/garbage.jpg"
-                className='rounded' alt="roofing" />
+                className='rounded' alt="erica additional services" />
               </div>
             </div>
           </div>

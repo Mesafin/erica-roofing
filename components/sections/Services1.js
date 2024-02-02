@@ -44,7 +44,7 @@ export default function Services1() {
                   className="services-icon"
                   style={{ display: `${isActive.key == 1 ? "none" : "flex"}` }}
                 >
-                  <img src="/assets/img/icon/services_icon01.svg" alt="" />
+                  <img src="/assets/img/icon/services_icon01.svg" alt="erica roofing services in Calgary" />
                 </div>
                 <div className="services-content">
                   <h2
@@ -86,7 +86,7 @@ export default function Services1() {
                   className="services-icon"
                   style={{ display: `${isActive.key == 2 ? "none" : "flex"}` }}
                 >
-                  <img src="/assets/img/icon/services_icon02.svg" alt="" />
+                  <img src="/assets/img/icon/services_icon02.svg" alt="erica roofing services in Calgary" />
                 </div>
                 <div className="services-content">
                   <h2
@@ -128,7 +128,7 @@ export default function Services1() {
                   className="services-icon"
                   style={{ display: `${isActive.key == 3 ? "none" : "flex"}` }}
                 >
-                  <img src="/assets/img/icon/services_icon03.svg" alt="" />
+                  <img src="/assets/img/icon/services_icon03.svg" alt="erica roofing services in Calgary" />
                 </div>
                 <div className="services-content">
                   <h2
@@ -170,7 +170,7 @@ export default function Services1() {
                   className="services-icon"
                   style={{ display: `${isActive.key == 4 ? "none" : "flex"}` }}
                 >
-                  <img src="/assets/img/icon/services_icon04.svg" alt="" />
+                  <img src="/assets/img/icon/services_icon04.svg" alt="erica roofing services in Calgary" />
                 </div>
                 <div className="services-content">
                   <h2
@@ -212,7 +212,7 @@ export default function Services1() {
                   className="services-icon"
                   style={{ display: `${isActive.key == 5 ? "none" : "flex"}` }}
                 >
-                  <img src="/assets/img/icon/services_icon05.svg" alt="" />
+                  <img src="/assets/img/icon/services_icon05.svg" alt="erica roofing services in Calgary" />
                 </div>
                 <div className="services-content">
                   <h2
@@ -258,7 +258,7 @@ export default function Services1() {
                   className="services-icon"
                   style={{ display: `${isActive.key == 6 ? "none" : "flex"}` }}
                 >
-                  <img src="/assets/img/icon/services_icon06.svg" alt="" />
+                  <img src="/assets/img/icon/services_icon06.svg" alt="erica roofing services in Calgary" />
                 </div>
                 <div className="services-content">
                   <h2

@@ -62,7 +62,7 @@ export default function Project1() {
                     <img
                       src="/assets/img/erica/project-1.jpg"
                       className="w-75"
-                      alt=""
+                      alt="erica roofing services in Calgary projects"
                     />
                   </div>
                   <div className="project-content">
@@ -84,9 +84,7 @@ export default function Project1() {
                         transformed this roof into a symbol of excellence.
                       </p>
                     </div>
-                    <div className="project-link">
-                    
-                    </div>
+                    <div className="project-link"></div>
                   </div>
                 </div>
                 <div
@@ -104,7 +102,7 @@ export default function Project1() {
                     <img
                       src="/assets/img/erica/project-2.jpg"
                       className="w-75"
-                      alt=""
+                      alt="erica roofing projects in Calgary"
                     />
                   </div>
                   <div className="project-content">
@@ -127,9 +125,7 @@ export default function Project1() {
                         features.
                       </p>
                     </div>
-                    <div className="project-link">
-                     
-                    </div>
+                    <div className="project-link"></div>
                   </div>
                 </div>
                 <div
@@ -147,7 +143,7 @@ export default function Project1() {
                     <img
                       src="/assets/img/erica/project-3.jpg"
                       className="w-75"
-                      alt=""
+                      alt="erica roofing projects and services in Calgary"
                     />
                   </div>
                   <div className="project-content">
@@ -170,9 +166,7 @@ export default function Project1() {
                         safeguarded the property
                       </p>
                     </div>
-                    <div className="project-link">
-                    
-                    </div>
+                    <div className="project-link"></div>
                   </div>
                 </div>
                 <div
@@ -190,7 +184,7 @@ export default function Project1() {
                     <img
                       src="/assets/img/erica/project-4.jpg"
                       className="w-75"
-                      alt=""
+                      alt="erica roofing projects in Calgary"
                     />
                   </div>
                   <div className="project-content">
@@ -216,9 +210,7 @@ export default function Project1() {
                         property.
                       </p>
                     </div>
-                    <div className="project-link">
-                    
-                    </div>
+                    <div className="project-link"></div>
                   </div>
                 </div>
               </div>

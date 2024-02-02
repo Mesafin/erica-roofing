@@ -130,7 +130,7 @@ export default function Footer1() {
                           <img
                             src="/assets/img/erica/logo/eri-1.png"
                             className="rounded-4"
-                            alt=""
+                            alt="roofing service in Calgary"
                           />
                         </Link>
                       </div>

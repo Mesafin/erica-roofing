@@ -20,10 +20,12 @@ export default function Features1() {
                         roof’s quality to the next level, ensuring maximum
                         durability and providing the most fantastic look.
                       </p>
-                      
                     </div>
                     <div className="features-icon">
-                      <img src="/assets/img/icon/features_icon01.svg" alt="" />
+                      <img
+                        src="/assets/img/icon/features_icon01.svg"
+                        alt="roofing services in Calgary features"
+                      />
                     </div>
                   </div>
                 </div>
@@ -41,10 +43,12 @@ export default function Features1() {
                         wasting any of Your time or money. Our customers are
                         valued.
                       </p>
-                      
                     </div>
                     <div className="features-icon">
-                      <img src="/assets/img/icon/features_icon02.svg" alt="" />
+                      <img
+                        src="/assets/img/icon/features_icon02.svg"
+                        alt="roofing services in Calgary features"
+                      />
                     </div>
                   </div>
                 </div>
@@ -68,7 +72,10 @@ export default function Features1() {
                       </p>
                     </div>
                     <div className="features-icon">
-                      <img src="/assets/img/icon/features_icon03.svg" alt="" />
+                      <img
+                        src="/assets/img/icon/features_icon03.svg"
+                        alt="roofing services in Calgary features"
+                      />
                     </div>
                   </div>
                 </div>

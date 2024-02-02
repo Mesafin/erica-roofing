@@ -94,11 +94,11 @@ export default function FlatRoofing() {
                             <div className="services-process-img">
                               <img
                                 src="/assets/img/erica/flat/flat-3.jpg"
-                                alt=""
+                                alt="roofing services in Calgary"
                               />
                               <img
                                 src="/assets/img/erica/flat/flat-2.jpg"
-                                alt=""
+                                alt="roofing services in Calgary"
                               />
                             </div>
                           </div>
@@ -128,11 +128,11 @@ export default function FlatRoofing() {
                             <div className="benefits-img">
                               <img
                                 src="/assets/img/services/sb_img01.jpg"
-                                alt=""
+                                alt="roofing services in Calgary"
                               />
                               <img
                                 src="/assets/img/erica/flat/flat-4.jpg"
-                                alt=""
+                                alt="roofing services in Calgary"
                               />
                             </div>
                           </div>

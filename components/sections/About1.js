@@ -16,14 +16,17 @@ export default function About1() {
                   />
                   <img
                     src="/assets/img/erica/home-banner.jpg"
-                    alt=""
+                    alt="roofing services in Calgary"
                     className="wow fadeInRight w-50"
                     data-wow-delay=".2s"
                   />
                   <div className="about-experiences-wrap">
                     <div className="experiences-item">
                       <div className="icon">
-                        <img src="/assets/img/icon/about_icon01.svg" alt="" />
+                        <img
+                          src="/assets/img/icon/about_icon01.svg"
+                          alt="roofing services in Calgary"
+                        />
                       </div>
                       <div className="content">
                         <h6 className="title">
@@ -34,7 +37,10 @@ export default function About1() {
                     </div>
                     <div className="experiences-item">
                       <div className="icon">
-                        <img src="/assets/img/icon/about_icon02.svg" alt="" />
+                        <img
+                          src="/assets/img/icon/about_icon02.svg"
+                          alt="roofing services in Calgary"
+                        />
                       </div>
                       <div className="content">
                         <h6 className="title">

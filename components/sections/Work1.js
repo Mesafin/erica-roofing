@@ -17,7 +17,7 @@ export default function Work1() {
                         <div className="col-xl-3 col-md-6">
                             <div className="work-item">
                                 <div className="work-thumb">
-                                    <img src="/assets/img/images/work_img01.png" alt="" />
+                                    <img src="/assets/img/images/work_img01.png" alt="erica roofing services in Calgary" />
                                     <h4 className="number">01</h4>
                                 </div>
                                 <div className="work-content">
@@ -29,7 +29,7 @@ export default function Work1() {
                         <div className="col-xl-3 col-md-6">
                             <div className="work-item">
                                 <div className="work-thumb">
-                                    <img src="/assets/img/images/work_img02.png" alt="" />
+                                    <img src="/assets/img/images/work_img02.png" alt="erica roofing services in Calgary" />
                                     <h4 className="number">02</h4>
                                 </div>
                                 <div className="work-content">
@@ -41,7 +41,7 @@ export default function Work1() {
                         <div className="col-xl-3 col-md-6">
                             <div className="work-item">
                                 <div className="work-thumb">
-                                    <img src="/assets/img/images/work_img03.png" alt="" />
+                                    <img src="/assets/img/images/work_img03.png" alt="erica roofing services in Calgary" />
                                     <h4 className="number">03</h4>
                                 </div>
                                 <div className="work-content">
@@ -53,7 +53,7 @@ export default function Work1() {
                         <div className="col-xl-3 col-md-6">
                             <div className="work-item">
                                 <div className="work-thumb">
-                                    <img src="/assets/img/images/work_img04.png" alt="" />
+                                    <img src="/assets/img/images/work_img04.png" alt="erica roofing services in Calgary" />
                                     <h4 className="number">04</h4>
                                 </div>
                                 <div className="work-content">

@@ -23,7 +23,7 @@ export default function RubberRoofing() {
                     <div className="project-details-thumb">
                       <img
                         src="/assets/img/erica/rubber/rubber-roofing.jpg"
-                        alt=""
+                        alt="erica rubber roofing"
                       />
                     </div>
                     <div className="project-details-content">
@@ -65,11 +65,11 @@ export default function RubberRoofing() {
                             <div className="challenge-img">
                               <img
                                 src="/assets/img/erica/rubber/rubber.webp"
-                                alt=""
+                                alt="erica rubber roofing"
                               />
                               <img
                                 src="/assets/img/erica/rubber/rubber-2.jpg"
-                                alt=""
+                                alt="erica rubber roofing"
                               />
                             </div>
                           </div>

@@ -4,7 +4,10 @@ export default function Custom404() {
 
     return (
       <>
-        <Layout breadcrumbTitle="Error Pages">
+        <Layout
+          breadcrumbTitle="Error Pages"
+          imageUrl="/assets/img/hero/Calgary-Resilient-Roofing.jpg"
+        >
           <section className="error-area pt-120 pb-120">
             <div className="container">
               <div className="row">

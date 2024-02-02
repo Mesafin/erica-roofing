@@ -135,7 +135,7 @@ export default function RubberRoofing() {
                           </li>
                           <li>
                             <i className="fas fa-envelope" />
-                            support@ericaroofing.com
+                            ericaroofing91@gmail.com
                           </li>
                           <li>
                             <i className="fas fa-map-marker-alt" />

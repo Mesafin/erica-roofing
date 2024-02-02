@@ -36,8 +36,8 @@ export default function Header({ headerCls, headerTop }) {
                     </li>
                     <li>
                       <i className="fas fa-envelope" />
-                      <Link href="mailto:support@ericaroofing.com">
-                        support@ericaroofing.com
+                      <Link href="mailto:ericaroofing91@gmail.com">
+                        ericaroofing91@gmail.com
                       </Link>
                     </li>
                   </ul>

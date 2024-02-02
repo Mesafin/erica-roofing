@@ -244,8 +244,8 @@ export default function Contact() {
                           </div>
                         </Link>
                         <div className="content">
-                          <Link href="mailto:support@ericaroofing.com">
-                            support@ericaroofing.com
+                          <Link href="mailto:ericaroofing91@gmail.com">
+                            ericaroofing91@gmail.com
                           </Link>
                         </div>
                       </div>

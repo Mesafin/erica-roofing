@@ -118,7 +118,7 @@ export default function Header({ headerCls, headerTop }) {
                             <Link href="/">Home</Link>
                           </li>
                           <li>
-                            <Link href="/about-us">About us</Link>
+                            <Link href="/about">About us</Link>
                           </li>
                           <li className="menu-item-has-children">
                             <Link href="/our-services">Services</Link>

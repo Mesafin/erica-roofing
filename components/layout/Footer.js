@@ -82,9 +82,15 @@ export default function Footer1() {
                             </Link>
                           </li>
                           <li>
-                            <Link href="/about-us">
+                            <Link href="/about">
                               <i className="fas fa-angle-double-right" />
                               About Us
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/services">
+                              <i className="fas fa-angle-double-right" />
+                              Services
                             </Link>
                           </li>
                           <li>

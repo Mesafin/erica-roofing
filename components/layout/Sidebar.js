@@ -36,16 +36,16 @@ export default function Sidebar() {
             style={{ display: `${isActive.key == 2 ? "block" : "none"}` }}
           >
             <li>
-              <Link href="/RoofRepair">Roof Repair</Link>
+              <Link href="/roof-repairing-services">Roof Repair</Link>
             </li>
             <li>
-              <Link href="/FlatRoofing">Flat Roofing</Link>
+              <Link href="/flat-roofing-services">Flat Roofing</Link>
             </li>
             <li>
-              <Link href="/MetalRoofing">Metal Roofing</Link>
+              <Link href="/metal-roofing-services">Metal Roofing</Link>
             </li>
             <li>
-              <Link href="/RubberRoofing">Rubber Roofing</Link>
+              <Link href="/rubber-roofing-services">Rubber Roofing</Link>
             </li>
           </ul>
 

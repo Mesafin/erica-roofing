@@ -146,7 +146,7 @@ export default function Footer1() {
                         <ul className="list-wrap">
                           <li>
                             <Link
-                              href="/#"
+                              href="https://www.facebook.com/profile.php?id=61555940798994"
                               target="_blank"
                               rel="noopener noreferrer"
                             >

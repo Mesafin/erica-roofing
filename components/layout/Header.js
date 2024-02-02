@@ -29,7 +29,7 @@ export default function Header({ headerCls, headerTop }) {
               <div className="col-xl-8 col-lg-9">
                 <div className="header-top-left">
                   <ul className="list-wrap">
-                    <li>Welcome to Erica Roofing and Exteriors</li>
+                    <li className="welcome">Welcome to Erica Roofing and Exteriors</li>
                     <li>
                       <i className="fas fa-phone-alt" />
                       <Link href="tel:+14034705239">+1 (403) 630 2629</Link>
@@ -48,13 +48,13 @@ export default function Header({ headerCls, headerTop }) {
                   <div className="header-social">
                     <ul className="list-wrap">
                       <li>
-                        <Link
-                          href="#"
+                        <a
+                          href="https://www.facebook.com/profile.php?id=61555940798994"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
                           <i className="fab fa-facebook-f" />
-                        </Link>
+                        </a>
                       </li>
                       <li>
                         <a
@@ -90,7 +90,7 @@ export default function Header({ headerCls, headerTop }) {
           >
             <div className="container">
               <div className="row">
-                <div className="col-12">
+                <div className="col-12 mini-screen">
                   <div className="mobile-nav-toggler" onClick={handleToggled}>
                     <i className="fas fa-bars" />
                   </div>
@@ -98,7 +98,7 @@ export default function Header({ headerCls, headerTop }) {
                     <nav className="menu-nav">
                       <div
                         className="logo different-logo"
-                        style={{ zoom: "100%" }}
+                        // style={{ zoom: "100%" }}
                       >
                         <Link href="/">
                           <img
@@ -172,29 +172,31 @@ export default function Header({ headerCls, headerTop }) {
                       <div className="social-links">
                         <ul className="clearfix list-wrap">
                           <li>
-                            <Link href="/#">
+                            <a
+                              href="https://www.facebook.com/profile.php?id=61555940798994"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
                               <i className="fab fa-facebook-f" />
-                            </Link>
+                            </a>
                           </li>
                           <li>
-                            <Link href="/#">
+                            <a
+                              href="https://twitter.com/EricaRoofi99133"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
                               <i className="fab fa-twitter" />
-                            </Link>
+                            </a>
                           </li>
                           <li>
-                            <Link href="/#">
-                              <i className="fab fa-instagram" />
-                            </Link>
-                          </li>
-                          <li>
-                            <Link href="/#">
-                              <i className="fab fa-linkedin-in" />
-                            </Link>
-                          </li>
-                          <li>
-                            <Link href="/#">
-                              <i className="fab fa-youtube" />
-                            </Link>
+                            <a
+                              href="https://wa.me/+14036302629"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <i className="fab fa-whatsapp" />
+                            </a>
                           </li>
                         </ul>
                       </div>

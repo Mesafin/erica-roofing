@@ -1,6 +1,8 @@
 # Logs
 logs
 .env
+file.txt
+# README.md
 *.log
 npm-debug.log*
 yarn-debug.log*

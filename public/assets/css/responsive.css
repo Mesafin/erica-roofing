@@ -320,6 +320,12 @@
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (max-width: 1199.98px) {
+.welcome{
+		display: none !important;
+	}
+	.mobile-nav-toggler{
+		padding-top: 35px;
+	}
 .container,
 .custom-container {
     max-width: 960px;
@@ -820,9 +826,12 @@
 .custom-container {
     max-width: 720px;
 }
-.menu-area {
-	padding: 22px 0;
+.transparent-header {
+	top: 25px;
 }
+/* .menu-area {
+	padding: 22px 0;
+} */
 .menu-nav {
 	justify-content: space-between;
 }
@@ -834,6 +843,8 @@
 }
 .menu-area .mobile-nav-toggler {
 	display: block;
+	padding-top: 35px;
+	/* margin-top: 70px; */
 }
 .banner-shape {
 	width: 30%;
@@ -1262,7 +1273,7 @@
     max-width: 100%;
 }
 .transparent-header {
-	top: 0;
+	top: 25px;
 }
 .banner-area {
 	padding: 85px 0 0 15px;
@@ -2257,5 +2268,9 @@
 }
 
 }
-
+@media (max-width: 390px) {
+	.mini-screen{
+		padding-top: 25px;
+	}
+}
 

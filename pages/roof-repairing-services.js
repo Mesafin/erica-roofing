@@ -1,10 +1,18 @@
 import Layout from "@/components/layout/Layout";
+import Head from "next/head";
 import Link from "next/link";
 
 
 export default function RoofRepair() {
   return (
     <>
+      <Head>
+        <title>Roof Repair Services - Erica</title>
+        <meta
+          name="description"
+          content="Discover our expert roof repair services. We specialize in fixing and maintaining residential roofs. Trust us for quality repairs and unmatched customer service."
+        />
+      </Head>
       <Layout
         breadcrumbTitle="Roof Repair"
         imageUrl="/assets/img/hero/calgary-city-1.jpg"

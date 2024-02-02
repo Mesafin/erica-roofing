@@ -31,37 +31,37 @@ export default function Footer1() {
                       <div className="footer-link">
                         <ul className="list-wrap">
                           <li>
-                            <Link href="/MetalRoofing">
+                            <Link href="/metal-roofing-services">
                               <i className="fas fa-angle-double-right" />
                               Single Ply Roofing
                             </Link>
                           </li>
                           <li>
-                            <Link href="/RoofRepair">
+                            <Link href="/roof-repairing-services">
                               <i className="fas fa-angle-double-right" />
                               Modified Roofing
                             </Link>
                           </li>
                           <li>
-                            <Link href="/FlatRoofing">
+                            <Link href="/flat-roofing-services">
                               <i className="fas fa-angle-double-right" />
                               Built-Up Roofing
                             </Link>
                           </li>
                           <li>
-                            <Link href="/MetalRoofing">
+                            <Link href="/metal-roofing-services">
                               <i className="fas fa-angle-double-right" />
                               Metal Roofing
                             </Link>
                           </li>
                           <li>
-                            <Link href="/RubberRoofing">
+                            <Link href="/rubber-roofing-services">
                               <i className="fas fa-angle-double-right" />
                               Vegetative Roofing
                             </Link>
                           </li>
                           <li>
-                            <Link href="/MetalRoofing">
+                            <Link href="/metal-roofing-services">
                               <i className="fas fa-angle-double-right" />
                               Specialty Metal
                             </Link>
@@ -82,25 +82,25 @@ export default function Footer1() {
                             </Link>
                           </li>
                           <li>
-                            <Link href="/about">
+                            <Link href="/about-us">
                               <i className="fas fa-angle-double-right" />
                               About Us
                             </Link>
                           </li>
                           <li>
-                            <Link href="/RoofRepair">
+                            <Link href="/roof-repairing-services">
                               <i className="fas fa-angle-double-right" />
                               Roof Repair
                             </Link>
                           </li>
                           <li>
-                            <Link href="/FlatRoofing">
+                            <Link href="/flat-roofing-services">
                               <i className="fas fa-angle-double-right" />
                               Flat Roofing
                             </Link>
                           </li>
                           <li>
-                            <Link href="/Metal Roofing">
+                            <Link href="/metal-roofing-services">
                               <i className="fas fa-angle-double-right" />
                               Metal Roofing
                             </Link>

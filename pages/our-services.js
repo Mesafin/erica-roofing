@@ -2,6 +2,7 @@ import Layout from "@/components/layout/Layout"
 import { useState } from 'react'
 import Services1 from "@/components/sections/Services1"
 import Counter1 from "@/components/sections/Counter1"
+import Head from "next/head"
 
 export default function Service() {
     const [isActive, setIsActive] = useState({
@@ -23,13 +24,18 @@ export default function Service() {
     }
     return (
       <>
+        <Head>
+          <title>Roofing and exterior Services - Erica</title>
+          <meta
+            name="description"
+            content="Explore our comprehensive roofing services, including roof repair, flat roofing, metal roofing, rubber roofing, vinyl siding, fibre cement siding, gutters, and more."
+          />
+        </Head>
         <Layout
           breadcrumbTitle="Services"
           imageUrl="/assets/img/hero/city-winter.jpg"
         >
           <div>
-        
-
             <Services1 />
             <div className="area-bg">
               <div
@@ -157,7 +163,7 @@ export default function Service() {
                         <li>Fibre Cement Siding</li>
                         <li>Gutters/Eavestrough and Downspouts</li>
                         <li>Soffit and Fasica</li>
-                        <li>Repairs and Maintainance</li>
+                        <li>Repairs and Maintenance</li>
                       </div>
                     </div>
                   </div>
@@ -174,7 +180,7 @@ export default function Service() {
                       <div className="">
                         <h4 className="title">Additional Services: </h4>
                         <li>Rooftop cleaning up</li>
-                        <li>Gutter/Eavestrough Replacementand cleanup </li>
+                        <li>Gutter/Eavestrough Replacement and cleanup </li>
                         <li>summer buck-yard cleaning services</li>{" "}
                         <li>waste desposal</li>
                         <li>garbage bins pressure washing </li>

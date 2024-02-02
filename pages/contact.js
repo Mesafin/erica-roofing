@@ -4,6 +4,7 @@ import Layout from "@/components/layout/Layout";
 import Link from "next/link";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
+import Head from "next/head";
 
 const MySwal = withReactContent(Swal);
 
@@ -92,6 +93,13 @@ export default function Contact() {
 
   return (
     <>
+      <Head>
+        <title>Contact Us - Erica</title>
+        <meta
+          name="description"
+          content="Get in touch with Erica roofing for all your roofing and exterior service needs. Reach out for quotes, inquiries, or any assistance you require."
+        />
+      </Head>
       <Layout
         breadcrumbTitle="Contact Us"
         imageUrl="/assets/img/hero/calgary-skyline.jpg"

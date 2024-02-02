@@ -1,9 +1,17 @@
 import Layout from "@/components/layout/Layout";
+import Head from "next/head";
 import Link from "next/link";
 
 export default function FlatRoofing() {
   return (
     <>
+      <Head>
+        <title>Flat Roofing Services - Erica</title>
+        <meta
+          name="description"
+          content="Explore our professional flat roofing services. We specialize in flat roof installation, repair, and maintenance. Trust our experienced team for durable and reliable flat roof solutions."
+        />
+      </Head>
       <Layout
         breadcrumbTitle="Flat Roofing"
         imageUrl="/assets/img/hero/home_h2_roofings.jpg"
@@ -94,7 +102,6 @@ export default function FlatRoofing() {
                               />
                             </div>
                           </div>
-                
                         </div>
                       </div>
                       <h2 className="title-two">
@@ -167,11 +174,9 @@ export default function FlatRoofing() {
                     </div>
                   </div>
                 </div>
-          
               </div>
             </div>
           </section>
-      
         </div>
       </Layout>
     </>

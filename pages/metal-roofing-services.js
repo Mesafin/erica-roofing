@@ -1,7 +1,15 @@
 import Layout from "@/components/layout/Layout";
+import Head from "next/head";
 export default function MetalRoofing() {
   return (
     <>
+      <Head>
+        <title>Metal Roofing Solutions - Erica</title>
+        <meta
+          name="description"
+          content="Discover the benefits of metal roofing with Our Company. We offer expert metal roofing installation and services. Explore durable, energy-efficient, and stylish metal roof options for your property."
+        />
+      </Head>
       <Layout
         breadcrumbTitle="Metal Roofing"
         imageUrl="/assets/img/hero/montreal-river-dusk.jpg"

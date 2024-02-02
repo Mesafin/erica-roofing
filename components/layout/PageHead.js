@@ -4,10 +4,12 @@ const PageHead = ({ headTitle }) => {
     return (
       <>
         <Head>
-          
-          <meta name="description" content="best roofing service in canada" />
+          <meta
+            name="description"
+            content="Welcome to Your Company Name - Calgary's trusted roofing contractor. We provide top-quality residential and exterior services with decades of combined experience."
+          />
           <title>
-            {headTitle ? headTitle : "ERICA - Best roofing services in Canada"}
+            {headTitle ? headTitle : "ERICA - Best roofing services in Calgary"}
           </title>
         </Head>
       </>

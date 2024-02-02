@@ -118,22 +118,22 @@ export default function Header({ headerCls, headerTop }) {
                             <Link href="/">Home</Link>
                           </li>
                           <li>
-                            <Link href="/about">About us</Link>
+                            <Link href="/about-us">About us</Link>
                           </li>
                           <li className="menu-item-has-children">
-                            <Link href="/services">Services</Link>
+                            <Link href="/our-services">Services</Link>
                             <ul className="sub-menu">
                               <li>
-                                <Link href="/RoofRepair">Roof Repair</Link>
+                                <Link href="/roof-repairing-services">Roof Repair</Link>
                               </li>
                               <li>
-                                <Link href="/FlatRoofing">Flat Roofing</Link>
+                                <Link href="/flat-roofing-services">Flat Roofing</Link>
                               </li>
                               <li>
-                                <Link href="/MetalRoofing">Metal Roofing</Link>
+                                <Link href="/metal-roofing-services">Metal Roofing</Link>
                               </li>
                               <li>
-                                <Link href="/RubberRoofing">
+                                <Link href="/rubber-roofing-services">
                                   Rubber Roofing
                                 </Link>
                               </li>

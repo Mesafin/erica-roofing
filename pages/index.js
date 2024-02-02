@@ -14,11 +14,15 @@ import Head from "next/head"
 export default function Home() {
 
     return (
-
-
       <>
+        <Head>
+          <title>ERICA - Best roofing services in Calgary</title>
+          <meta
+            name="description"
+            content="Welcome to Your Company Name - Calgary's trusted roofing contractor. We provide top-quality residential and exterior services with decades of combined experience."
+          />
+        </Head>
         <Layout headerCls="transparent-header">
-          <Head/>
           <Banner1 />
           <Features1 />
           <About1 />

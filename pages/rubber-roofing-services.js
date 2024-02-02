@@ -1,7 +1,15 @@
 import Layout from "@/components/layout/Layout";
+import Head from "next/head";
 export default function RubberRoofing() {
   return (
     <>
+      <Head>
+        <title>Rubber Roofing Solutions - Erica</title>
+        <meta
+          name="description"
+          content="Explore environmentally friendly rubber roofing solutions with Erica roofing. Our experts specialize in rubber roof installation and maintenance. Discover durable and sustainable options for your roofing needs."
+        />
+      </Head>
       <Layout
         breadcrumbTitle="Rubber Roofing"
         imageUrl="/assets/img/hero/shingle_repairs.jpg"

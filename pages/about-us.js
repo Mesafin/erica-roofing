@@ -1,5 +1,6 @@
 import VideoPopup from "@/components/elements/VideoPopup"
 import Layout from "@/components/layout/Layout"
+import Head from "next/head"
 import Link from "next/link"
 import Slider from "react-slick"
 const settings = {
@@ -16,6 +17,13 @@ export default function About() {
 
     return (
       <>
+        <Head>
+          <title>About Us - Erica</title>
+          <meta
+            name="description"
+            content="Learn about Erica, founded by Calgary roofing contractors with decades of experience. We focus on details, customer satisfaction, and technologically advanced roofing solutions."
+          />
+        </Head>
         <Layout
           breadcrumbTitle="About Us"
           imageUrl="/assets/img/hero/canada-day-md-min.jpg"
@@ -238,14 +246,12 @@ export default function About() {
             </div>
           </section>
           {/* work-area-end */}
-       
+
           {/* area-bg */}
           <div
             className="area-bg-five"
             data-background="/assets/img/bg/area_bg05.jpg"
-          >
-         
-          </div>
+          ></div>
           {/* area-bg-end */}
 
           <div className="">

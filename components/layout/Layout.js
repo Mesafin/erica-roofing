@@ -16,7 +16,7 @@ export default function Layout({ headerCls, headerTop, headTitle, breadcrumbTitl
     }, [])
     return (
         <>
-            <PageHead headTitle={headTitle} />
+            {/* <PageHead headTitle={headTitle} /> */}
             <DataBg />
 
             <Header headerCls={headerCls} headerTop={headerTop} />

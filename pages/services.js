@@ -112,12 +112,19 @@ export default function Service() {
 
             {/* exteriors */}
 
-            <section className="support-area pt-5 pb-70">
+            <section className="support-area pt-1 pt-lg-5 pb-70">
               <div className="container">
-                <div className="row justify-content-center align-items-center">
-                  <div className="col-xl-5 col-md-6">
+                <div className="row justify-content-center g-3 align-items-center">
+                  <div className="col-xl-5 col-md-6 order-1">
                     <div className="support-item">
-                      <div className="support-icon"></div>
+                      <div className="support-icon">
+                        {/* <img
+                        className="text-white"
+                          src="/assets/img/icon/sp_icon02.svg"
+                          alt="erica roofing services in Calgary"
+                        /> */}
+                        <i class="fas fa-check"></i>
+                      </div>
                       <div className="">
                         <h4 className="title">Roofing Services: </h4>
                         <li>General Residential Roofing</li>
@@ -142,10 +149,10 @@ export default function Service() {
               </div>
             </section>
 
-            <section className="support-area pt-5 pb-70">
+            <section className="support-area pt-1 pt-lg-5 pb-70">
               <div className="container">
                 <div className="row justify-content-center g-5 align-items-center">
-                  <div className="col-xl-4 col-md-6">
+                  <div className="col-xl-4 col-md-6 order-md-1">
                     <div className="support-item">
                       <img
                         src="/assets/img/services/exterior.jpg"
@@ -154,9 +161,11 @@ export default function Service() {
                       />
                     </div>
                   </div>
-                  <div className="col-xl-4 col-md-6 ps-lg-5 ms-lg-5">
+                  <div className="col-xl-4 col-md-6">
                     <div className="support-item">
-                      <div className="support-icon"></div>
+                      <div className="support-icon">
+                        <i class="fas fa-check"></i>
+                      </div>
                       <div className="">
                         <h4 className="title">Exterior Services: </h4>
                         <li>Vinyl Siding</li>
@@ -171,12 +180,14 @@ export default function Service() {
               </div>
             </section>
 
-            <section className="support-area pt-5 pb-70">
+            <section className="support-area pt-1 pt-lg-5 pb-70">
               <div className="container">
-                <div className="row justify-content-center align-items-center">
-                  <div className="col-xl-5 col-md-6">
+                <div className="row justify-content-center g-3 align-items-center">
+                  <div className="col-xl-5 col-md-6 order-1">
                     <div className="support-item">
-                      <div className="support-icon"></div>
+                      <div className="support-icon">
+                        <i class="fas fa-check"></i>
+                      </div>
                       <div className="">
                         <h4 className="title">Additional Services: </h4>
                         <li>Rooftop cleaning up</li>

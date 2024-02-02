@@ -1013,10 +1013,11 @@
 }
 .support-item {
 	display: block;
-	text-align: center;
+	padding-left: 5%;
+	/* text-align: center; */
 }
 .support-icon {
-	margin: 0 auto 15px;
+	margin: 0 auto 25px 5%;
 }
 .project-content-two {
 	padding: 40px 40px 40px 30px;

@@ -27,7 +27,7 @@ export default function Counter1() {
           <div className="container">
             <div className="counter-inner wow fadeInUp" data-wow-delay=".2s">
               <div className="row">
-                <div className="col-lg-4 col-sm-3">
+                <div className="col-lg-4 col-sm-4">
                   <div className="counter-item">
                     <div className="counter-icon">
                       <img
@@ -41,7 +41,7 @@ export default function Counter1() {
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-sm-3">
+                <div className="col-lg-4 col-sm-4">
                   <div className="counter-item">
                     <div className="counter-icon">
                       <img
@@ -56,7 +56,7 @@ export default function Counter1() {
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-sm-6">
+                <div className="col-lg-4 col-sm-4">
                   <div className="counter-item">
                     <div className="counter-icon">
                       <img

@@ -36,21 +36,23 @@ const AddService = () => {
 
       */}
 
-      <section className="support-area pt-5 pb-70">
+      <section className="support-area pt-5 pb-sm-5">
         <div className="container">
           <div className="row justify-content-center g-5 align-items-center">
-            <div className="col-xl-4 col-md-6">
+            <div className="col-xl-4 col-md-6 order-2">
               <div className="support-item">
                 <img
                   src="/assets/img/services/exterior.jpg"
                   alt="erica exterior services"
-                  className='rounded'
+                  className="rounded"
                 />
               </div>
             </div>
-            <div className="col-xl-5 col-md-6 ps-lg-5 ms-lg-5">
+            <div className="col-xl-5 col-md-6 order-md-2">
               <div className="support-item">
-                <div className="support-icon"></div>
+                <div className="support-icon">
+                  <i class="fas fa-check"></i>
+                </div>
                 <div className="">
                   <h4 className="title">Exterior Services: </h4>
                   <li>Vinyl Siding</li>
@@ -65,12 +67,14 @@ const AddService = () => {
         </div>
       </section>
 
-      <section className="support-area pt-5  pb-70">
+      <section className="support-area pt-1 pt-md-5  pb-70">
         <div className="container">
           <div className="row justify-content-center align-items-center">
             <div className="col-xl-5 col-md-6">
               <div className="support-item">
-                <div className="support-icon"></div>
+                <div className="support-icon">
+                  <i class="fas fa-check"></i>
+                </div>
                 <div className="">
                   <h4 className="title">Additional Services: </h4>
                   <li>Rooftop cleaning up</li>
@@ -81,10 +85,13 @@ const AddService = () => {
                 </div>
               </div>
             </div>
-            <div className="col-xl-4 col-md-6">
+            <div className="col-xl-4 col-md-6 order-2">
               <div className="support-item">
-                <img src="/assets/img/services/garbage.jpg"
-                className='rounded' alt="erica additional services" />
+                <img
+                  src="/assets/img/services/garbage.jpg"
+                  className="rounded"
+                  alt="erica additional services"
+                />
               </div>
             </div>
           </div>
